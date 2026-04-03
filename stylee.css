@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    font-family: sans-serif;
+}
+.conteiner1{
+    border:solid 10px;
+    background-color: rgb(240, 210, 171);
+   border-color: rgba(14, 48, 45, 0.346);
+}
+.conteiner{
+    background-color: rgb(9, 199, 136);
+    }
+.conteiner2{
+    border-top:solid 10px;
+    border-color: rgba(14, 48, 45, 0.346);
+}
+#photo1{
+    width: 150px;
+    height: 200px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+#phot{
+   margin-left: 18px;
+    margin-top: 18px;
+}
+.titl{
+    text-align: center;
+    padding: 15px;
+}
